@@ -1,4 +1,17 @@
 .form{
-    // background-color: red;
+    background-color: #00367b;
+    width: 100%;
+    flex-wrap: wrap;
+    border-radius: 10px;
 
+    .btnBusca{
+        display: flex;
+        align-items: flex-end;
+    }
+    .divider{
+        color: aliceblue;
+    }
+    label{
+        color: #fff;
+    }
 }
